@@ -6,7 +6,7 @@
 
    habitat-api (https://github.com/facebookresearch/habitat-api)
 
-   .. other python library, if any error occured about python library, just installed it.
+   .. other python library, if any error occured about python library, just install it!
 
 1. Edit data_path in vistargetnav_example.py
 
@@ -30,7 +30,7 @@
       - Living penalty : - 0.1
       - Success reward : 1.0
 
-4. ![](C:\Users\Owner\Pictures\example.PNG)
+4. ![](example.PNG)
 
     To move the agent, press key
 
