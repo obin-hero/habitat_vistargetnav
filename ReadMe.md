@@ -26,6 +26,9 @@
     - Task : find a wood box in the environment
       - The location of the wood box changes every episode
       - If the agent collide with any obstacles, the episode ends.
+    - Observation:
+      - rgb : 256*256*3 RGB image
+      - depth : depth image 0 ~ 10
     - Reward:
       - Living penalty : - 0.1
       - Success reward : 1.0
